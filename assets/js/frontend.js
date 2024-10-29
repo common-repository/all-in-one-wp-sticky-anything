@@ -1,0 +1,1 @@
+(()=>{var t,o;t=jQuery,o=function(){var o=ai1wpsa,s=o.stickyData,e=o.isLoggedIn,i=s.stickyClass,a=s.stickyZIndex,c=e?32:0;jQuery(".sticky").stickr({duration:0,offsetTop:0,offsetBottom:30}),jQuery(i).stickr({duration:0,offsetTop:c,offsetBottom:30,closeButton:!1}),t(i).css("z-index",a)},t(document).ready(o)})();
